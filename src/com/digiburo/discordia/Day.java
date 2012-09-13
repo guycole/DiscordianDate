@@ -1,8 +1,4 @@
-package com.digiburo.discordia.date;
-
-/**
- * Discordian day definitions
- */
+package com.digiburo.discordia;
 
 /**
  * Discordian day definitions

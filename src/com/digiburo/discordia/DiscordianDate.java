@@ -1,8 +1,5 @@
-package com.digiburo.discordia.date;
+package com.digiburo.discordia;
 
-/**
- * Discordian Date Container
- */
 import java.io.Serializable;
 
 import java.util.GregorianCalendar;

@@ -1,23 +1,13 @@
 package com.digiburo.discordia;
 
-/**
- * //filecomment//
- */
 import java.text.SimpleDateFormat;
-import java.util.Random;
-
 import java.util.Calendar;
 import java.util.Date;
 import java.util.GregorianCalendar;
-
-import com.digiburo.discordia.date.DateFactory;
-import com.digiburo.discordia.date.DiscordianDate;
-import com.digiburo.discordia.date.HolyDay;
-
-import com.digiburo.discordia.praise.Praise;
+import java.util.Random;
 
 /**
- * //type comment//
+ * demonstrate use of discordian date routines
  *
  * @author gsc
  */

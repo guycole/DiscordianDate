@@ -1,8 +1,4 @@
-package com.digiburo.discordia.date;
-
-/**
- * Discordian season definitions
- */
+package com.digiburo.discordia;
 
 /**
  * Discordian season definitions

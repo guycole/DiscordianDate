@@ -1,9 +1,6 @@
 
-package com.digiburo.discordia.praise;
+package com.digiburo.discordia;
 
-/**
- * Random non-sequiturs of praise
- */
 import java.io.Serializable;
 
 /**
@@ -13,7 +10,6 @@ import java.io.Serializable;
  */
 public enum Praise implements Serializable {
 	ALL_HAIL("All Hail Discordia!"),
-	COMMERCIAL("Buy me for your iPhone or Android mobile"),
 	FNORD("Fnord."),
 	FRINK("Frink!"),
 	GRUDNUK("Grudnuk demand sustenance!"),

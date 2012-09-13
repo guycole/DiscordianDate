@@ -1,8 +1,4 @@
-package com.digiburo.discordia.date;
-
-/**
- * Discordian Holy Days
- */
+package com.digiburo.discordia;
 
 /**
  * Discordian Holy Days

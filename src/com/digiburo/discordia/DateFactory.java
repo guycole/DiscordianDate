@@ -1,8 +1,4 @@
-package com.digiburo.discordia.date;
-
-/**
- * Gregorian To Discordian Date Conversion
- */
+package com.digiburo.discordia;
 
 import java.util.Calendar;
 import java.util.GregorianCalendar;
